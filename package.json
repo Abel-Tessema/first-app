@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "@types/node": "^22.0.2",
+    "jshint": "^2.13.6"
+  },
+  "name": "first-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "lion-lib-bj": "^1.2.0",
+    "mongoose": "^8.5.2",
+    "underscore": "^1.13.7",
+    "undici-types": "^6.19.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
